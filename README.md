@@ -6,8 +6,6 @@ class Alphabets
     public static void main(String[] args) 
 {
         int n=7;
-
-        //JAVA IS AMAZING
         for(int i=0; i<=n-1; ++i)
         {
             // for J character
@@ -724,3 +722,4 @@ class Alphabets
         }
     }
 } 
+
